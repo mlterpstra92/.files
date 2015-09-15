@@ -1,2 +1,3 @@
 # Files that can never ever be included in the repo
 .ssh
+.gnupg
