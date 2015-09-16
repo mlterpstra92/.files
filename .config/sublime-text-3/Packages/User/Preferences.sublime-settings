@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "predawn.sublime-theme",
+	"tabs_small":true,
+	"findreplace_small": true
+}
